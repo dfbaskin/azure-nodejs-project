@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node_modules/.bin/babel-node server.js"
   },
   "repository": {
     "type": "git",
@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/dfbaskin/azure-nodejs-project/issues"
   },
-  "homepage": "https://github.com/dfbaskin/azure-nodejs-project#readme"
+  "homepage": "https://github.com/dfbaskin/azure-nodejs-project#readme",
+  "dependencies": {
+    "babel": "5.8.29",
+    "express": "^4.13.3"
+  }
 }
