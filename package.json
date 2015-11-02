@@ -1,0 +1,24 @@
+{
+  "name": "azure-nodejs-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dfbaskin/azure-nodejs-project.git"
+  },
+  "keywords": [
+    "Azure",
+    "NodeJS",
+    "JSPM"
+  ],
+  "author": "Dave Baskin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dfbaskin/azure-nodejs-project/issues"
+  },
+  "homepage": "https://github.com/dfbaskin/azure-nodejs-project#readme"
+}
